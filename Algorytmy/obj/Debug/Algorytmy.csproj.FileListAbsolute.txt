@@ -1,0 +1,10 @@
+C:\Users\MM\source\repos\Algorytmy\Algorytmy\Algorytmy\bin\Debug\Algorytmy.exe.config
+C:\Users\MM\source\repos\Algorytmy\Algorytmy\Algorytmy\bin\Debug\Algorytmy.exe
+C:\Users\MM\source\repos\Algorytmy\Algorytmy\Algorytmy\bin\Debug\Algorytmy.pdb
+C:\Users\MM\source\repos\Algorytmy\Algorytmy\Algorytmy\obj\Debug\Algorytmy.csprojAssemblyReference.cache
+C:\Users\MM\source\repos\Algorytmy\Algorytmy\Algorytmy\obj\Debug\Algorytmy.Form1.resources
+C:\Users\MM\source\repos\Algorytmy\Algorytmy\Algorytmy\obj\Debug\Algorytmy.Properties.Resources.resources
+C:\Users\MM\source\repos\Algorytmy\Algorytmy\Algorytmy\obj\Debug\Algorytmy.csproj.GenerateResource.cache
+C:\Users\MM\source\repos\Algorytmy\Algorytmy\Algorytmy\obj\Debug\Algorytmy.csproj.CoreCompileInputs.cache
+C:\Users\MM\source\repos\Algorytmy\Algorytmy\Algorytmy\obj\Debug\Algorytmy.exe
+C:\Users\MM\source\repos\Algorytmy\Algorytmy\Algorytmy\obj\Debug\Algorytmy.pdb
